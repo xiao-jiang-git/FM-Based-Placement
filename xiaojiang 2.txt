@@ -1,0 +1,35 @@
+E s 1
+F l
+A s 1
+E l
+I l
+B s 1
+F l
+G l
+C s 1
+G l
+L l
+D s 1
+L l
+H l
+E s 1
+I l
+J l
+F s 1
+J l
+G s 1
+J l
+K l
+L s 1
+O l
+P l
+H s 1
+P l
+I s 1
+M l
+J s 1
+M l
+N l
+K s 1
+N l
+O l
